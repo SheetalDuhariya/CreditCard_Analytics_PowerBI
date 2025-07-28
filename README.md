@@ -90,9 +90,13 @@ The dashboard provides clear, actionable visualizations of customer transactions
 
 ## 📂 Files Included
 
-- `Credit_Card_Transaction_Report.pbix` - Main Power BI file
-- `README.md` - Project documentation
-
+- Main Power BI file - `Credit_Card_Transaction_Report.pbix`  
+- Project documentation - `README.md` 
+- Dataset :
+- `credit_card.csv`
+- `customer.csv`
+- `cc_add.csv`
+- `cust_add.csv`
 ---
 
 ## 📌 Notes
